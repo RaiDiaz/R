@@ -1,12 +1,13 @@
-# Hi, I'm Rai
+# Rai | Software Developer
 
-I build practical software with a strong foundation in programming and web development.
+I build products that are fast, useful, and maintainable.
+From interface to database, I focus on delivering software that solves real problems.
 
-## About Me
+## Developer Profile
 
-- I enjoy turning ideas into clean, maintainable code.
-- I focus on building useful solutions, not just writing code.
-- I am constantly improving my engineering skills through real projects.
+- Product-minded engineer: I care about user value, not only code quality.
+- Full-stack execution: I can move features from idea to production.
+- Continuous growth: every project is a chance to improve architecture and decisions.
 
 ## Tech Stack
 
@@ -29,18 +30,19 @@ I build practical software with a strong foundation in programming and web devel
 
 ### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## What I Care About
+## How I Work
 
-- Writing readable and scalable code
-- Applying good software practices
-- Building projects with real impact
+- Clean, scalable code over quick hacks
+- Strong foundations before unnecessary complexity
+- Practical solutions with measurable impact
 
-## Current Goal
+## Focus Right Now
 
-Keep growing in software architecture, engineering best practices, and full project development.
+Building stronger full-stack systems and improving software architecture skills.
